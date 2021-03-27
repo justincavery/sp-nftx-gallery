@@ -39,7 +39,7 @@
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9",
     "axios": "^0.21.1",
-    "axios-hooks": "^2.3.0",
+    "axios-hooks": "^2.4.0",
     "big.js": "^6.0.3",
     "next": "^10.0.6",
     "postcss": "^7",
